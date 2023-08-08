@@ -6,6 +6,7 @@
 - Data Structure Visualization
     1. [*visualgo.net*](https://visualgo.net/en)
     2. [*www.cs.usfca.edu*](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+    3. https://github.com/codingEzio/code_py_book_data_structures_and_algo
 
 ### Note
 - I'm really really *bad* at <u>data structures</u> & <u>algorithms</u>.
